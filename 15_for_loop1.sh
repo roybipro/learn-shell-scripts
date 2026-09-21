@@ -6,6 +6,7 @@ do
 done
 
 
+
 for name in Raju Sam Baburao
 do
   echo "name is $name"
